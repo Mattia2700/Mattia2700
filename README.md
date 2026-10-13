@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a FullStack Software Engineer in Fondazione Bruno Kessler in Trento, responsible of multiple chatbots integrated in e-health apps<br>🌱 I’m currently studying Artificial Intelligence System (MSc)<br>💬 Ask me about E-Agle Trento Racing Team (Formula Student)
+🔭 I’m currently working as a FullStack Software Engineer in Fondazione Bruno Kessler in Trento, responsible of multiple chatbots integrated in e-health apps<br>🌱 I studied Artificial Intelligence System (MSc)
 
 
 ## 🌐 Socials:
